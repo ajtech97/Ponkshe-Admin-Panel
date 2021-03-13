@@ -1,0 +1,4 @@
+$server = "localhost";
+$username = "ponkshe_fam";
+$password = "y)U[#DYPg#uI";
+$dbname = "ponkshe_ponkweb";
